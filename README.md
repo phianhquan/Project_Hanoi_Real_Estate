@@ -42,7 +42,7 @@
   
   - District population
   
-  - District GDP
+  - District area
 
 **Code**
 
